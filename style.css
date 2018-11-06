@@ -1,0 +1,44 @@
+* {
+
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+ul, li {
+
+    list-style: none;
+    display: inline-block
+}
+
+a {
+
+    text-decoration: none;
+    transition: all 500ms ease-in-out;
+}
+
+a:hover,
+a:active {
+
+    text-decoration: none;
+}
+
+h1,
+h2,
+h4{ 
+    font-family:"PT Sna Narrow ", Arial sans-serif;
+    text-transfrom:uppercase;
+    font weight:700;
+    
+p { 
+     font -size:15 px;
+     line-height:21 px;
+     }
+.btn {
+    trans
